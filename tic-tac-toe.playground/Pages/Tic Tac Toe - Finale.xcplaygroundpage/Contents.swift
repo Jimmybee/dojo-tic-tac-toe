@@ -103,6 +103,7 @@ let positions: [Position] = [Position(row: .top, col: .left), Position(row: .top
                              Position(row: .middle, col: .left), Position(row: .middle, col: .middle), Position(row: .middle, col: .right),
                              Position(row: .bottom, col: .left), Position(row: .bottom, col: .middle), Position(row: .bottom, col: .right)]
 
+
 typealias Move = ()->Game
 
 // implement me!
